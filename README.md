@@ -25,11 +25,10 @@ Ideal For:
     Rapid prototyping of forecasting models
     Exploratory time series analysis
 
-🚀 How to Use:
-
+How to Use:
     Clone the repo
     Install required R packages
     Run shiny::runApp() to launch the dashboard
     Upload your time series data and start modeling!
 
-✅ No coding required for end users – just point, click, and analyze!
+No coding required for end users – just point, click, and analyze!
