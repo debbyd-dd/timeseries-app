@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software for your research or analysis, please cite it as below."
+authors:
+  - family-names: "Daniel"
+    given-names: "Deborah O."
+title: "Time Series Analysis Tool (Shiny R App)"
+version: 1.0.0
+date-released: 2025-12-17
+url: "https://github.com/debbyd-dd/timeseries-app"
+type: software
+
