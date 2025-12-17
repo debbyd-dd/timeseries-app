@@ -28,7 +28,8 @@ A powerful, interactive time series forecasting and modeling application built w
 <!-- Create a folder named 'screenshots' in your repo and add images of your app there -->
 <div align="center">
   <img src="screenshots/dashboard_view.png" alt="Dashboard View" width="45%" />
-  <img src="screenshots/analysis_view.png" alt="Forecast View" width="45%" />
+  <img src="screenshots/analysis_view.png" alt="Analysis View" width="45%" />
+  <img src="screenshots/result_view.png" alt="Comparison View" width="45%" />
   <img src="screenshots/forecast_view.png" alt="Forecast View" width="45%" />
 </div>
 
