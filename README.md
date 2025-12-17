@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg?style=for-the-badge)](https://debbyd.shinyapps.io/TimeSeriesForecasting/)
 [![R](https://img.shields.io/badge/R-4.2+-blue.svg?style=for-the-badge)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-1.7+-blue.svg?style=for-the-badge)](https://shiny.posit.co/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)](LICENSE)
 
 ## 🔗 Live Demo
 **[Click here to try the application live on ShinyApps.io](https://debbyd.shinyapps.io/TimeSeriesForecasting/)**
