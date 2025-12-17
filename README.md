@@ -1,9 +1,9 @@
 # 📈 Time Series Analysis Tool (Shiny R App)
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg?style=for-the-badge&logo=r)](https://debbyd.shinyapps.io/TimeSeriesForecasting/)
-![R](https://img.shields.io/badge/R-4.2+-blue.svg?style=for-the-badge&logo=r)
-![Shiny](https://img.shields.io/badge/Shiny-1.7+-blue.svg?style=for-the-badge&logo=rstudio)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg?style=for-the-badge)](https://debbyd.shinyapps.io/TimeSeriesForecasting/)
+[![R](https://img.shields.io/badge/R-4.2+-blue.svg?style=for-the-badge)](https://www.r-project.org/)
+[![Shiny](https://img.shields.io/badge/Shiny-1.7+-blue.svg?style=for-the-badge)](https://shiny.posit.co/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ## 🔗 Live Demo
 **[Click here to try the application live on ShinyApps.io](https://debbyd.shinyapps.io/TimeSeriesForecasting/)**
@@ -33,6 +33,7 @@ A powerful, interactive time series forecasting and modeling application built w
 <!-- Create a folder named 'screenshots' in your repo and add images of your app there -->
 <div align="center">
   <img src="screenshots/dashboard_view.png" alt="Dashboard View" width="45%" />
+  <img src="screenshots/analysis_view.png" alt="Forecast View" width="45%" />
   <img src="screenshots/forecast_view.png" alt="Forecast View" width="45%" />
 </div>
 
@@ -50,7 +51,7 @@ To run this app locally on your machine:
 
 1.  **Clone the repository**:
     ```
-    git clone https://github.com/yourusername/shiny-time-series-forecaster.git
+    git clone https://github.com/debbyd-dd/timeseries-app.git
     ```
 
 2.  **Install R Dependencies**:
@@ -88,4 +89,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU Affero General Public License v3.0 License - see the [LICENSE](LICENSE) file for details.
